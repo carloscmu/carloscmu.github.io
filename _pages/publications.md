@@ -10,6 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography --group_by: year query @*[selected=true]* %}
+{% bibliography -q @*[selected=true]* %}
 
 </div>
