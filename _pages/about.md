@@ -7,7 +7,7 @@ subtitle: <a href= 'https://www.federalreserve.gov/econres/rsfs-staff.htm'>Divis
 profile:
   align: right
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 working_papers: false # includes a list of papers marked as "selected={false}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
