@@ -55,15 +55,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-
-  <!-- Working papers -->
-    {% if page.working_papers %}
-      <h2>
-        <a href="{{ '/working-papers/' | relative_url }}" style="color: inherit">working papers</a>
-      </h2>
-      {% include wp.liquid %}
-    {% endif %}
-    
+  
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
