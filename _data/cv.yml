@@ -77,6 +77,22 @@
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
       year: March 2022
       description: I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
+
+- title: Short Academic Visits
+  type: time_table
+  contents:
+    - title: Managerial Economics and Decision Sciences Department
+      institution: Northwestern, Evanston, USA.
+      year: March-April 2022
+    - title: Department of Economics
+      institution: Stanford, Palo Alto, USA.
+      year: April-May 2022
+    - title: Department of Finance
+      institution: UCLA Anderson, Los Angeles, USA.
+      year: May-June 2022
+    - title: Department of Finance
+      institution: Bocconi, Milano, Italy.
+      year: July 2022
       
 - title: Honors and Awards
   type: time_table
