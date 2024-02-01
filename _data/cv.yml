@@ -133,10 +133,10 @@
   type: nested_list
   contents:
     - title: Ad-hoc referee
-      description: Operations Research, Journal of Banking and Finance, Review of Finance, Macroeconomic Dynamics, Mathematics and Financial Economics, Journal of Economics and Business, World Bank Economic Review, International Journal of Central Banking, Quantitative Finance, Journal of Credit Risk, International Review of Finance.
+      items: Operations Research, Journal of Banking and Finance, Review of Finance, Macroeconomic Dynamics, Mathematics and Financial Economics, Journal of Economics and Business, World Bank Economic Review, International Journal of Central Banking, Quantitative Finance, Journal of Credit Risk, International Review of Finance.
     - title: Seminar and Conference organization
-      description: 2019 Conference on the Interconnectedness of Financial Systems. AEA 2020 Session Financial networks, regulation, and systemic risk. 2021 Conference on the Interconnectedness of Financial Systems. 2024 Conference on the Interconnectedness of Financial Systems.
+      items: 2019 Conference on the Interconnectedness of Financial Systems. AEA 2020 Session Financial networks, regulation, and systemic risk. 2021 Conference on the Interconnectedness of Financial Systems. 2024 Conference on the Interconnectedness of Financial Systems.
     - title: Grant reviewer
-      description: NSF, FONDECYT (Chilean NSF)
+      items: NSF, FONDECYT (Chilean NSF)
     - title: Editorial work
-      description: Guest Editor, Journal of Credit Risk, Special Issue. International Risk Management Conference, 2022.
+      items: Guest Editor, Journal of Credit Risk, Special Issue. International Risk Management Conference, 2022.
