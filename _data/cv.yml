@@ -45,25 +45,25 @@
 - title: Publications
   type: time_table
   contents:
-    - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market</a>. FEDS Notes. Joint with Mark E. Paddrik and  Matthew J. McCormick. 
+    - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market</a>. FEDS Notes. 
       year: August 2021
-      description: Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
-    - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications</a>. Journal of Monetary Economics. Joint with Nicolás Figueroa and Oksana Leukhina.
+      description: Joint with Mark E. Paddrik and  Matthew J. McCormick. Abstract: Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
+    - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications</a>. Journal of Monetary Economics.
       year: March 2021
-      description: We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
+      description: Joint with Nicolás Figueroa and Oksana Leukhina. Abstract: We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
 
 - title: Working Papers
   type: time_table
   contents:
-    - title: Treasury Triparty Repo Pricing. Joint with Mark E. Paddrik. 
+    - title: Treasury Triparty Repo Pricing. 
       year: February 2024
-      description: Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from being uniform across market participants and depends on a delicate interplay among (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
-    - title: <a href="https://www.dropbox.com/scl/fi/x4a03qk79htbqm6beyqtj/anatomy-cyberattacks-01202024.pdf?rlkey=04qsaepwv9qwdy1u78k41b7nt&dl=0">On the Anatomy of Cyberattacks</a>. Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera.  
+      description: Joint with Mark E. Paddrik. Abstract: Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from being uniform across market participants and depends on a delicate interplay among (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
+    - title: <a href="https://www.dropbox.com/scl/fi/x4a03qk79htbqm6beyqtj/anatomy-cyberattacks-01202024.pdf?rlkey=04qsaepwv9qwdy1u78k41b7nt&dl=0">On the Anatomy of Cyberattacks</a>.  
       year: January 2024
-      description: We construct a new data set with detailed information on cyberattacks and establishments in the United States and estimate how an establishment’s characteristics can alter the likelihood of being the target of cyberattacks. We find that larger establishments and establishments of public institutions are more likely to be targets. Our findings are robust to a battery of controls and consistent with the idea that cyberattacks could impose significant adverse effects in economies wherein larger institutions play a more significant role.
-    - title: <a href="https://drive.google.com/file/d/17409G0MQuZhtAmutS31nC9vdPNJql1Sm/view">Firm Networks and Asset Returns</a>. Revision requested at The Review of Financial Studies. 
+      description:  Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. Abstract: We construct a new data set with detailed information on cyberattacks and establishments in the United States and estimate how an establishment’s characteristics can alter the likelihood of being the target of cyberattacks. We find that larger establishments and establishments of public institutions are more likely to be targets. Our findings are robust to a battery of controls and consistent with the idea that cyberattacks could impose significant adverse effects in economies wherein larger institutions play a more significant role.
+    - title: <a href="https://drive.google.com/file/d/17409G0MQuZhtAmutS31nC9vdPNJql1Sm/view">Firm Networks and Asset Returns</a>. 
       year: November 2023
-      description: Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier-customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
+      description: Revision requested at The Review of Financial Studies. Abstract: Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier-customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem</a>. 
       year: March 2022
       description: I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
@@ -77,7 +77,21 @@
   type: time_table
   contents:
     - year: 2023
-    - items: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
+      items: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
+    - year: 2022
+      items: MEA, FMCG, Stanford, NASMES, Conference on the Effectiveness of Financial Regulation, ESAM, EFMA, IRMC, Finance Forum, AMES, Vienna Macro Café, Fed System Conference in Regulation.
+    - year: 2021
+      items: RiskLab-BoF-ESRB Conference, SES, MFA, Conference on Network Science.
+    - year: 2020
+      items: AEA, MFA, NFA.
+    - year: 2019
+      items: Conference on Network Science, Bank of Portugal, EFA, EEA-ESEM, Boston Fed, OFR, SED, PUC-Chile, Bank of Mexico, Central Bank of Chile.
+    - year: 2018
+      items: Conference on Network Science, San Francisco Fed, SED, EFA, WU, LACEA-LAMES, PFMC.
+    - year: 2017
+      items: PUC-Chile, Warwick, EEA-ESEM, EFA, NFA, CIRANO.
+    - year: 2016
+      items: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Central Bank of Chile, Luxembourg, ASSET, PUC-Chile.
     
 - title: Academic Interests
   type: nested_list
