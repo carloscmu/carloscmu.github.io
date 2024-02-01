@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href= 'https://www.federalreserve.gov/econres/rsfs-staff.htm'>Federal Reserve Board</a>
+subtitle: <a href= 'https://www.federalreserve.gov/econres/rsfs-staff.htm'>Division of Research and Statistics. Federal Reserve Board.</a>
 
 profile:
   align: right
