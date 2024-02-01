@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carlos A. Ramírez",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "carlos.ramirez@frb.gov",
+    "phone": "+1 202 452 3169",
+    "url": "https://www.carlosrc.com",
+    "summary": "I am an economist working on topics at the intersection of networks, financial stability, and asset pricing.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1801 K Street NW",
+      "postalCode": "20006",
+      "city": "Washington DC",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington DC"
     },
     "profiles": [
       {
