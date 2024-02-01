@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an economist working on topics at the intersection between networks, asset pricing, and financial stability. 
+I am an economist working on topics at the intersection between networks, financial stability, and asset pricing. 
 
 Contact Information:<br>
 Emails: <a href = "mailto: carlos.ramirez@frb.gov">carlos.ramirez@frb.gov </a> or <a href = "mailto: carlos@carlosrc.com">carlos@carlosrc.com </a> <br>
