@@ -46,12 +46,12 @@
   type: time_table
   contents:
     - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market.</a> FEDS Notes. 
-      year: August 2021
+      year: Aug 2021
       items: 
         - Joint with Mark E. Paddrik and  Matthew J. McCormick. 
         - Abstract. Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
     - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
-      year: March 2021
+      year: Mar 2021
       items: 
         - Joint with Nicolás Figueroa and Oksana Leukhina. 
         - Abstract. We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
@@ -70,7 +70,7 @@
       - Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. 
       - Abstract. We construct a new data set with detailed information on cyberattacks and establishments in the United States and estimate how an establishment’s characteristics can alter the likelihood of being the target of cyberattacks. We find that larger establishments and establishments of public institutions are more likely to be targets. Our findings are robust to a battery of controls and consistent with the idea that cyberattacks could impose significant adverse effects in economies wherein larger institutions play a more significant role.
     - title: <a href="https://drive.google.com/file/d/17409G0MQuZhtAmutS31nC9vdPNJql1Sm/view">Firm Networks and Asset Returns.</a> 
-      year: No 2023
+      year: Nov 2023
       items:
       - Revision requested at The Review of Financial Studies. 
       - Abstract. Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier-customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
