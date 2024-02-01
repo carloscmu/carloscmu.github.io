@@ -67,7 +67,7 @@
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem</a>. 
       year: March 2022
       description: I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
-
+      
 - title: Honors and Awards
   type: time_table
   contents:
@@ -77,21 +77,21 @@
   type: time_table
   contents:
     - year: 2023
-      items: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
+      description: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
     - year: 2022
-      items: MEA, FMCG, Stanford, NASMES, Conference on the Effectiveness of Financial Regulation, ESAM, EFMA, IRMC, Finance Forum, AMES, Vienna Macro Café, Fed System Conference in Regulation.
+      description: MEA, FMCG, Stanford, NASMES, Conference on the Effectiveness of Financial Regulation, ESAM, EFMA, IRMC, Finance Forum, AMES, Vienna Macro Café, Fed System Conference in Regulation.
     - year: 2021
-      items: RiskLab-BoF-ESRB Conference, SES, MFA, Conference on Network Science.
+      description: RiskLab-BoF-ESRB Conference, SES, MFA, Conference on Network Science.
     - year: 2020
-      items: AEA, MFA, NFA.
+      description: AEA, MFA, NFA.
     - year: 2019
-      items: Conference on Network Science, Bank of Portugal, EFA, EEA-ESEM, Boston Fed, OFR, SED, PUC-Chile, Bank of Mexico, Central Bank of Chile.
+      description: Conference on Network Science, Bank of Portugal, EFA, EEA-ESEM, Boston Fed, OFR, SED, PUC-Chile, Bank of Mexico, Central Bank of Chile.
     - year: 2018
-      items: Conference on Network Science, San Francisco Fed, SED, EFA, WU, LACEA-LAMES, PFMC.
+      description: Conference on Network Science, San Francisco Fed, SED, EFA, WU, LACEA-LAMES, PFMC.
     - year: 2017
-      items: PUC-Chile, Warwick, EEA-ESEM, EFA, NFA, CIRANO.
+      description: PUC-Chile, Warwick, EEA-ESEM, EFA, NFA, CIRANO.
     - year: 2016
-      items: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Central Bank of Chile, Luxembourg, ASSET, PUC-Chile.
+      description: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Central Bank of Chile, Luxembourg, ASSET, PUC-Chile.
     
 - title: Academic Interests
   type: nested_list
