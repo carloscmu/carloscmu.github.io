@@ -93,11 +93,16 @@
     - title: Department of Finance
       institution: Bocconi, Milano, Italy.
       year: Jul 2022
-      
-- title: Honors and Awards
+
+- title: Teaching Experience
   type: time_table
   contents:
-    - items: Macro Finance Society Doctoral Student Travel Grant (2015); AFA Doctoral Student Travel Grant (2014); GSA Conference Funding Award, Carnegie Mellon (2013/2015); Doctoral Research Grant, Tepper-Carnegie Mellon (2013/2014/2015); Dean's Fellowship, Tepper-Carnegie Mellon (2012); William Larimer Mellon Fellowship, Tepper-Carnegie Mellon (2010–2014); Research Fellowship, CEA-DII Universidad de Chile (2009); Outstanding Student Award, School of Engineering, Universidad de Chile (2003/2006).
+    - title: Regression Analysis
+      institution: Carnegie Mellon.
+      year: 2013
+    - title: Principles of Economics
+      institution: Universidad de Chile.
+      year: 2009    
 
 - title: Presentations
   type: time_table
@@ -118,20 +123,20 @@
       description: PUC-Chile, Warwick, EEA-ESEM, EFA, NFA, CIRANO.
     - year: 2016
       description: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Central Bank of Chile, Luxembourg, ASSET, PUC-Chile.
-    
-- title: Academic Interests
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - items: Macro Finance Society Doctoral Student Travel Grant (2015); AFA Doctoral Student Travel Grant (2014); GSA Conference Funding Award, Carnegie Mellon (2013/2015); Doctoral Research Grant, Tepper-Carnegie Mellon (2013/2014/2015); Dean's Fellowship, Tepper-Carnegie Mellon (2012); William Larimer Mellon Fellowship, Tepper-Carnegie Mellon (2010–2014); Research Fellowship, CEA-DII Universidad de Chile (2009); Outstanding Student Award, School of Engineering, Universidad de Chile (2003/2006).
+
+- title: Service
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Ad-hoc referee
+      description: Operations Research, Journal of Banking and Finance, Review of Finance, Macroeconomic Dynamics, Mathematics and Financial Economics, Journal of Economics and Business, World Bank Economic Review, International Journal of Central Banking, Quantitative Finance, Journal of Credit Risk, International Review of Finance.
+    - title: Seminar and Conference organization
+      description: 2019 Conference on the Interconnectedness of Financial Systems. AEA 2020 Session Financial networks, regulation, and systemic risk. 2021 Conference on the Interconnectedness of Financial Systems. 2024 Conference on the Interconnectedness of Financial Systems.
+    - title: Grant reviewer
+      description: NSF, FONDECYT (Chilean NSF)
+    - title: Editorial work
+      description: Other: Guest Editor, Journal of Credit Risk, Special Issue: International Risk Management Conference, 2022.
