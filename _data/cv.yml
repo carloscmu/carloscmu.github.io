@@ -93,7 +93,7 @@
     - title: Department of Finance
       institution: Bocconi, Milano, Italy.
       year: Jul 2022
-
+      
 - title: Teaching Experience
   type: time_table
   contents:
@@ -102,8 +102,8 @@
       year: 2013
     - title: Principles of Economics
       institution: Universidad de Chile.
-      year: 2009    
-
+      year: 2009
+      
 - title: Presentations
   type: time_table
   contents:
@@ -139,4 +139,4 @@
     - title: Grant reviewer
       description: NSF, FONDECYT (Chilean NSF)
     - title: Editorial work
-      description: Other: Guest Editor, Journal of Credit Risk, Special Issue: International Risk Management Conference, 2022.
+      description: Guest Editor, Journal of Credit Risk, Special Issue. International Risk Management Conference, 2022.
