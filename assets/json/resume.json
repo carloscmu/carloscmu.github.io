@@ -14,13 +14,6 @@
       "countryCode": "US",
       "region": "Washington DC"
     },
-    "profiles": [
-      {
-        "network": ,
-        "username": ,
-        "url": 
-      }
-    ]
   },
   "work": [
     {
@@ -29,17 +22,13 @@
       "url": "https://www.federalreserve.gov/econres/carlos-ramirez.htm",
       "startDate": "2019-02-01",
       "endDate": "",
-      "summary": ,
-      "highlights": [""]
     },
     {
       "name": "Division of Research and Statistics. Federal Reserve Board.",
       "position": "Economist",
       "url": "https://www.federalreserve.gov/econres/carlos-ramirez.htm",
       "startDate": "2019-01-01",
-      "endDate": "2016-05-01",
-      "summary": ,
-      "highlights": [""]    
+      "endDate": "2016-05-01",    
     }
   ],
   "volunteer": [
