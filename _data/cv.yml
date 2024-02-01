@@ -26,6 +26,17 @@
       institution: Universidad de Chile, Santiago, Chile
       year: 2006
 
+- title: Publications
+  type: time_table
+  contents:
+    - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market</a>
+      year: August 2021
+      description: Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.
+
+  - title: <a href="https://linkinghub.elsevier.com/retrieve/pii/S0304393219302156">Imperfect information transmission from banks to investors: Macroeconomic implications</a>
+      year: March 2021
+      description: We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
+
 - title: Experience
   type: time_table
   contents:
