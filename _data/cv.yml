@@ -71,7 +71,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    items: Macro Finance Society Doctoral Student Travel Grant (2015); AFA Doctoral Student Travel Grant (2014); GSA Conference Funding Award, Carnegie Mellon (2013/2015); Doctoral Research Grant, Tepper-Carnegie Mellon (2013/2014/2015); Dean's Fellowship, Tepper-Carnegie Mellon (2012); William Larimer Mellon Fellowship, Tepper-Carnegie Mellon (2010–2014); Research Fellowship, CEA-DII Universidad de Chile (2009); Outstanding Student Award, School of Engineering, Universidad de Chile (2003/2006).
+    - items: Macro Finance Society Doctoral Student Travel Grant (2015); AFA Doctoral Student Travel Grant (2014); GSA Conference Funding Award, Carnegie Mellon (2013/2015); Doctoral Research Grant, Tepper-Carnegie Mellon (2013/2014/2015); Dean's Fellowship, Tepper-Carnegie Mellon (2012); William Larimer Mellon Fellowship, Tepper-Carnegie Mellon (2010–2014); Research Fellowship, CEA-DII Universidad de Chile (2009); Outstanding Student Award, School of Engineering, Universidad de Chile (2003/2006).
 
 - title: Academic Interests
   type: nested_list
