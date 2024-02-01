@@ -21,4 +21,5 @@ Emails: <a href = "mailto: carlos.ramirez@frb.gov">carlos.ramirez@frb.gov </a> o
 Address: Federal Reserve Board. 1801 K Street NW, Washington DC, 20006. <br>
 Phone: +1 202 452 3169.
 
-<p><strong>text-indent: 2em;</strong></p>
+<br>
+<br>
