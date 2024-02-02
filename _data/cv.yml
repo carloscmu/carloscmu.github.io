@@ -1,4 +1,4 @@
-- title: General Information
+- title: Contact Information
   type: map
   contents:
     - name: Name
@@ -81,27 +81,27 @@
 - title: Short Academic Visits
   type: time_table
   contents:
-    - title: Managerial Economics and Decision Sciences Department
-      institution: Northwestern, Evanston, USA.
-      year: Mar-Apr 2022
-    - title: Department of Economics
-      institution: Stanford, Palo Alto, USA.
-      year: Apr-May 2022
+    - title: Department of Finance
+      institution: Bocconi University, Milano, Italy.
+      year: Jul 2022
     - title: Department of Finance
       institution: UCLA Anderson, Los Angeles, USA.
       year: May-Jun 2022
-    - title: Department of Finance
-      institution: Bocconi, Milano, Italy.
-      year: Jul 2022
+    - title: Department of Economics
+      institution: Stanford University, Palo Alto, USA.
+      year: Apr-May 2022
+    - title: Managerial Economics and Decision Sciences Department
+      institution: Northwestern University, Evanston, USA.
+      year: Mar-Apr 2022
       
 - title: Teaching Experience
   type: time_table
   contents:
     - title: Regression Analysis
-      institution: Carnegie Mellon.
+      institution: Carnegie Mellon University, Pittsburgh, USA.
       year: 2013
     - title: Principles of Economics
-      institution: Universidad de Chile.
+      institution: Universidad de Chile, Santiago, Chile.
       year: 2009
       
 - title: Presentations
@@ -116,13 +116,13 @@
     - year: 2020
       description: AEA, MFA, NFA.
     - year: 2019
-      description: Conference on Network Science, Bank of Portugal, EFA, EEA-ESEM, Boston Fed, OFR, SED, PUC-Chile, Bank of Mexico, Central Bank of Chile.
+      description: Conference on Network Science, Banco de Portugal, EFA, EEA-ESEM, Boston Fed, OFR, SED, PUC-Chile, Banco de Mexico, Banco Central de Chile.
     - year: 2018
       description: Conference on Network Science, San Francisco Fed, SED, EFA, WU, LACEA-LAMES, PFMC.
     - year: 2017
       description: PUC-Chile, Warwick, EEA-ESEM, EFA, NFA, CIRANO.
     - year: 2016
-      description: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Central Bank of Chile, Luxembourg, ASSET, PUC-Chile.
+      description: Bocconi, IESE, UT Dallas, Fed Board, Cornerstone, Portsmouth-Fordham, CIRANO, Carnegie Mellon, Banco Central de Chile, Luxembourg, ASSET, PUC-Chile.
 
 - title: Honors and Awards
   type: time_table
@@ -134,7 +134,7 @@
   contents:
     - title: Ad-hoc referee
       items: Operations Research, Journal of Banking and Finance, Review of Finance, Macroeconomic Dynamics, Mathematics and Financial Economics, Journal of Economics and Business, World Bank Economic Review, International Journal of Central Banking, Quantitative Finance, Journal of Credit Risk, International Review of Finance.
-    - title: Seminar and Conference organization
+    - title: Seminar and conference organization
       items: 2019 Conference on the Interconnectedness of Financial Systems. AEA 2020 Session Financial networks, regulation, and systemic risk. 2021 Conference on the Interconnectedness of Financial Systems. 2024 Conference on the Interconnectedness of Financial Systems.
     - title: Grant reviewer
       items: NSF, FONDECYT (Chilean NSF)
