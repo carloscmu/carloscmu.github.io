@@ -45,7 +45,7 @@
 - title: Publications
   type: time_table
   contents:
-    - title: <a href="https://drive.google.com/file/d/1dHIv7NNIe9ZRYD5_fD1kK28aGWTC2JpW/view?usp=sharing">Firm Networks and Asset Returns.</a> Forthcoming, Review of Financial Studies. 
+    - title: <a href="https://doi.org/10.1093/rfs/hhae032">Firm Networks and Asset Returns.</a> Forthcoming, Review of Financial Studies. 
       year: April 2024
       items: 
         - <i>Abstract.</i> Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier–customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
@@ -76,7 +76,7 @@
       year: Feb 2024
       items: 
       - Joint with Mark E. Paddrik. 
-      - <i>Abstract.</i> Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from being uniform across market participants and depends on a delicate interplay among (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
+      - <i>Abstract.</i> Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from uniform across market participants and depends on a delicate interplay between three factors (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
       year: Mar 2022
       items: 
@@ -111,6 +111,8 @@
 - title: Presentations
   type: time_table
   contents:
+    - year: 2024
+      description: Finance Forum, Luxembourg, EEA, University of Vienna, Banco de España, CUNEF.
     - year: 2023
       description: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
     - year: 2022
