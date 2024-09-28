@@ -11,6 +11,7 @@ _pages/about.md
 _pages/cv.md
 _pages/publications.md
 _pages/wp.md
+_includes/analytics.liquid
 assets/js/theme.js
 assets/json/resume.json
 lighthouse_results/**
