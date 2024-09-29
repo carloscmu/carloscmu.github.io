@@ -51,22 +51,22 @@
     - title: <a href="https://doi.org/10.1093/rfs/hhae032">Firm Networks and Asset Returns.</a> Review of Financial Studies. 
       year: Oct 2024
       items: 
-        - <i>Abstract.</i> Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier–customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
+        - Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier–customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
     - title: <a href="https://www.sciencedirect.com/science/article/pii/S0165176524001599">On the anatomy of cyberattacks.</a> Economics Letters. 
       year: Apr 2024
       items: 
-        - Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. 
-        - <i>Abstract.</i> Using detailed information on cyberattacks and establishments in the United States, we study whether and how an establishment’s characteristics can alter the likelihood of cyberattacks. We find that larger establishments and establishments of publicly traded companies are more likely targets.      
+        - <i>Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera.</i> 
+        - Using detailed information on cyberattacks and establishments in the United States, we study whether and how an establishment’s characteristics can alter the likelihood of cyberattacks. We find that larger establishments and establishments of publicly traded companies are more likely targets.      
     - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market.</a> FEDS Notes. 
       year: Aug 2021
       items: 
-        - Joint with Mark E. Paddrik and  Matthew J. McCormick. 
-        - <i>Abstract.</i> Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
+        - <i>Joint with Mark E. Paddrik and  Matthew J. McCormick.</i> 
+        - Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
     - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
       year: Mar 2021
       items: 
-        - Joint with Nicolás Figueroa and Oksana Leukhina. 
-        - <i>Abstract.</i> We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
+        - <i>Joint with Nicolás Figueroa and Oksana Leukhina.</i> 
+        - We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
 
 - title: Working Papers
   type: time_table
@@ -74,16 +74,16 @@
     - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
       items: 
-      - <i>Abstract.</i> I propose a model to highlight the relevance of basic characteristics of the structural makeup of contagion for the design of macroprudential policies. Besides characterizing optimal policies under a variety of environments, I show that failing to incorporate said characteristics can lead to inappropriate strategies for crisis prevention.
+      - I propose a model to highlight the relevance of basic characteristics of the structural makeup of contagion for the design of macroprudential policies. Besides characterizing optimal policies under a variety of environments, I show that failing to incorporate said characteristics can lead to inappropriate strategies for crisis prevention.
     - title: Treasury Triparty Repo Pricing. 
       year: Feb 2024
       items: 
-      - Joint with Mark E. Paddrik. 
-      - <i>Abstract.</i> Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from uniform across market participants and depends on a delicate interplay between three factors (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
+      - <i>Joint with Mark E. Paddrik.</i> 
+      - Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from uniform across market participants and depends on a delicate interplay between three factors (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
       year: Mar 2022
       items: 
-      - <i>Abstract.</i> I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
+      - I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
 
 - title: Short Academic Visits
   type: time_table
