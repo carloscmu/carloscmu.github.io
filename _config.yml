@@ -8,7 +8,7 @@ middle_name: A.
 last_name: Ramírez
 email: carlos@carlosrc.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am an economist working on topics at the intersection of networks, asset pricing, and financial stability.
+  I am an economist working on networks, asset pricing, and financial intermediation. Recently, I have delved into topics on financial stability and cyber risk.  
 footer_text: >
   This website represents my views and should not be interpreted as reflecting the views of the Federal Reserve Board or other members of its staff. 
 keywords: networks, financial stability, systemic risk, finance, carlos ramirez, fed, fed board, economist, financial economics # add your own keywords or leave empty
