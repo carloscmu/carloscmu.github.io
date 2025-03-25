@@ -64,6 +64,15 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/policy/' | relative_url }}" style="color: inherit">policy notes</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
+
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
