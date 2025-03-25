@@ -59,19 +59,10 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications & policy notes</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/policy/' | relative_url }}" style="color: inherit">policy notes</a>
-      </h2>
-      {% include policy.liquid %}
-    {% endif %}
-
 
     <!-- Social -->
     {% if page.social %}
