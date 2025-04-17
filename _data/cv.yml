@@ -48,6 +48,10 @@
 - title: Publications
   type: time_table
   contents:
+    - title: <a href="https://doi.org/10.1016/j.econlet.2025.112307">On equilibrium cyber risk.</a> Economics Letters. 
+      year: April 2025
+      items: 
+        - I develop a simple model to study how the interplay between institutions’ and hackers’ incentives can alter cyber risk within an equilibrium context. By formalizing the strategic interaction between institutions and hackers, the model characterizes how changes in heterogeneity across institutions, cybersecurity technologies, and hacker competition can lead to material shifts in cyber risk.
     - title: <a href="https://doi.org/10.1093/rfs/hhae032">Firm Networks and Asset Returns.</a> Review of Financial Studies. 
       year: Oct 2024
       items: 
@@ -114,8 +118,10 @@
 - title: Presentations
   type: time_table
   contents:
+    - year: 2025
+      description: Finance Forum, IRMC.
     - year: 2024
-      description: Finance Forum, Luxembourg, EEA, University of Vienna, Banco de España, CUNEF.
+      description: Finance Forum, Luxembourg, EEA, University of Vienna, Banco de España, CUNEF, OFR.
     - year: 2023
       description: MEA, George Washington, Fed Board, WFA, Finance Forum, Banco de España, WANES.
     - year: 2022
@@ -149,3 +155,5 @@
       items: NSF, FONDECYT (Chilean NSF)
     - title: Editorial work
       items: Guest Editor, Journal of Credit Risk, Special Issue. International Risk Management Conference, 2022.
+    - title: Program Committee Member
+      items: 2025 Northern Finance Association (NFA) Meetings.
