@@ -75,6 +75,10 @@
 - title: Working Papers
   type: time_table
   contents:
+    - title: Supply Chain Risk and Inflation Dynamics. 
+      year: Aug 2025
+      items: 
+      - By combining stock return data with detailed information on supplier--customer relationships and input specificity, I construct a novel measure of the U.S. economy exposure to supply chain disruptions. The proposed measure significantly enhances the forecasting of monthly inflation at horizons of one, three, six, nine, and twelve months. In addition, it sheds light on the upper tail of the conditional distribution of future inflation, particularly at longer horizons.
     - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
       items: 
