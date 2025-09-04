@@ -6,7 +6,7 @@
     - name: Address
       value: 1801 K Street NW. Washington DC. 20006.
     - name: Email
-      value: carlos.ramirez@frb.gov
+      value: carlos@carlosrc.com
     - name: Phone
       value: +1 202 452 3169
 
@@ -45,7 +45,7 @@
       institution: Universidad de Chile, Santiago, Chile
       year: 2006
 
-- title: Publications
+- title: Publications & Policy Notes
   type: time_table
   contents:
     - title: <a href="https://doi.org/10.1016/j.econlet.2025.112307">On Equilibrium Cyber Risk.</a> Economics Letters. 
@@ -123,7 +123,7 @@
   type: time_table
   contents:
     - year: 2025
-      description: IRMC, Universidad de los Andes, Universidad de Chile.
+      description: IRMC, Universidad de los Andes, Universidad de Chile, NFA.
     - year: 2024
       description: Finance Forum, Luxembourg, EEA, University of Vienna, Banco de España, CUNEF, OFR.
     - year: 2023
