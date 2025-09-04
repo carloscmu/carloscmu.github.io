@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an economist interested in networks, asset pricing, financial stability, and macroprudential regulation. Recently, I have explored topics related to cyber risk.
+I am an economist interested in networks, asset pricing, financial stability, and macroprudential regulation. Recently, I have also explored topics related to cyber risk.
 
 Contact Information:<br>
 Email: <a href = "mailto: carlos@carlosrc.com">carlos@carlosrc.com</a>.<br>
