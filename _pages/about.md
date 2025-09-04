@@ -14,10 +14,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an economist working on networks, asset pricing, and financial intermediation. Recently, I have explored topics related to financial stability and cyber risk.
+I am an economist interested in networks, asset pricing, financial stability, and macroprudential regulation. Recently, I have explored topics related to cyber risk.
 
 Contact Information:<br>
-Email: <a href = "mailto: carlos.ramirez@frb.gov">carlos.ramirez@frb.gov</a>.<br>
+Email: <a href = "mailto: carlos@carlosrc.com">carlos@carlosrc.com</a>.<br>
 Address: Federal Reserve Board. 1801 K Street NW, Washington DC, 20006. <br>
 Phone: +1 202 452 3169.
 
