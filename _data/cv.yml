@@ -6,7 +6,7 @@
     - name: Address
       value: 1801 K Street NW. Washington DC. 20006.
     - name: Email
-      value: carlos@carlosrc.com
+      value: <a href="mailto:carlos@carlosrc.com">carlos@carlosrc.com</a>
     - name: Phone
       value: +1 202 452 3169
 
@@ -79,15 +79,15 @@
       year: Aug 2025
       items: 
       - I propose a measure of the U.S. economy’s exposure to supply chain disruptions by integrating stock market data with information on supplier–customer linkages and input specificity. The proposed measure improves inflation forecasts and provides insights into inflation tail risk, particularly at longer horizons.
+    - title: Treasury Triparty Repo Pricing. 
+      year: May 2025
+      items: 
+      - <i>Joint with Mark E. Paddrik.</i> 
+      - Using a confidential and comprehensive dataset, we show that the pricing of overnight Treasury tri-party repos significantly varies across market participants and depends on three factors (1) the number of counterparties that participants often trade with, (2) the degree of trading diversification across those counterparties, and (3) the share of trading volume those counterparties account for. We also find that the pricing impact of these factors are sensitive to market conditions.
     - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
       items: 
       - I propose a model to highlight the relevance of basic characteristics of the structural makeup of contagion for the design of macroprudential policies. Besides characterizing optimal policies under a variety of environments, I show that failing to incorporate said characteristics can lead to inappropriate strategies for crisis prevention.
-    - title: Treasury Triparty Repo Pricing. 
-      year: Feb 2024
-      items: 
-      - <i>Joint with Mark E. Paddrik.</i> 
-      - Using a comprehensive transaction-level dataset, we show that the pricing of overnight treasury triparty repos is far from uniform across market participants and depends on a delicate interplay between three factors (1) the number of counterparties, (2) counterparty diversification, and (3) how actively such counterparties trade. Importantly, this interplay can be reshaped in times of stress.
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
       year: Mar 2022
       items: 
