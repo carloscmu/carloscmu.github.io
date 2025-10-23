@@ -249,6 +249,12 @@ defaults:
     values:
       sitemap: false
 
+defaults:
+  - scope:
+      path: ""     # applies to all files
+    values:
+      robots: "noindex, nofollow"
+
 sass:
   style: compressed
 
