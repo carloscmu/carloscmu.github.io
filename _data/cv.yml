@@ -54,16 +54,13 @@
       year: Oct 2024
     - title: <a href="https://www.sciencedirect.com/science/article/pii/S0165176524001599">On the Anatomy of Cyberattacks.</a> Economics Letters. 
       year: Apr 2024
-      items: 
-        - <i>Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera.</i> 
+      description: Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. 
     - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market.</a> FEDS Notes. 
       year: Aug 2021
-      items: 
-        - <i>Joint with Mark E. Paddrik and  Matthew J. McCormick.</i> 
+      description: Joint with Mark E. Paddrik and  Matthew J. McCormick. 
     - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
       year: Mar 2021
-      items: 
-        - <i>Joint with Nicolás Figueroa and Oksana Leukhina.</i> 
+      description: Joint with Nicolás Figueroa and Oksana Leukhina. 
     
 - title: Working Papers
   type: time_table
@@ -72,8 +69,7 @@
       year: Aug 2025
     - title: <a href="https://www.carlosrc.com/assets/pdf/triparty-05022025.pdf">Treasury Triparty Repo Pricing.</a> 
       year: May 2025
-      items: 
-      - <i>Joint with Mark E. Paddrik.</i> 
+      description: Joint with Mark E. Paddrik. 
     - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
     - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
