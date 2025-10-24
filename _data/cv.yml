@@ -58,8 +58,7 @@
         # - Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier–customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
     - title: <a href="https://www.sciencedirect.com/science/article/pii/S0165176524001599">On the Anatomy of Cyberattacks.</a> Economics Letters. 
       year: Apr 2024
-      items: 
-        - <i>Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera.</i> 
+      description: Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. 
         # - Using detailed information on cyberattacks and establishments in the United States, we study whether and how an establishment’s characteristics can alter the likelihood of cyberattacks. We find that larger establishments and establishments of publicly traded companies are more likely targets.      
     - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market.</a> FEDS Notes. 
       year: Aug 2021
