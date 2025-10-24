@@ -62,13 +62,11 @@
         # - Using detailed information on cyberattacks and establishments in the United States, we study whether and how an establishment’s characteristics can alter the likelihood of cyberattacks. We find that larger establishments and establishments of publicly traded companies are more likely targets.      
     - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/the-dynamics-of-the-us-overnight-triparty-repo-market-20210802.html">The Dynamics of the U.S. Overnight Triparty Repo Market.</a> FEDS Notes. 
       year: Aug 2021
-      items: 
-        - <i>Joint with Mark E. Paddrik and  Matthew J. McCormick.</i> 
+      description: Joint with Mark E. Paddrik and  Matthew J. McCormick. 
         # - Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
     - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
       year: Mar 2021
-      items: 
-        - <i>Joint with Nicolás Figueroa and Oksana Leukhina.</i> 
+      description: Joint with Nicolás Figueroa and Oksana Leukhina. 
         # - We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
 
 - title: Working Papers
@@ -78,10 +76,9 @@
       year: Aug 2025
       # items: 
       # - I propose a measure of the U.S. economy’s exposure to supply chain disruptions by integrating stock market data with information on supplier–customer linkages and input specificity. The proposed measure improves inflation forecasts and provides insights into inflation tail risk, particularly at longer horizons.
-    - title: Treasury Triparty Repo Pricing. 
+    - title: <a href="https://">Treasury Triparty Repo Pricing.</a> 
       year: May 2025
-      items: 
-      - <i>Joint with Mark E. Paddrik.</i> 
+      description: Joint with Mark E. Paddrik. 
       # - Using a confidential and comprehensive dataset, we show that the pricing of overnight Treasury tri-party repos significantly varies across market participants and depends on three factors (1) the number of counterparties that participants often trade with, (2) the degree of trading diversification across those counterparties, and (3) the share of trading volume those counterparties account for. We also find that the pricing impact of these factors are sensitive to market conditions.
     - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
