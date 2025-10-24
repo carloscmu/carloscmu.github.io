@@ -48,15 +48,15 @@
 - title: Publications & Policy Notes
   type: time_table
   contents:
-    - title: <a href="https://doi.org/10.1016/j.econlet.2025.112307">On Equilibrium Cyber Risk.</a> Economics Letters. 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/on-equilibrium-cyber-risk.pdf">On Equilibrium Cyber Risk.</a> Economics Letters. 
       year: Apr 2025
       # items: 
         # - I develop a simple model to study how the interplay between institutions’ and hackers’ incentives can alter cyber risk within an equilibrium context. By formalizing the strategic interaction between institutions and hackers, the model characterizes how changes in heterogeneity across institutions, cybersecurity technologies, and hacker competition can lead to material shifts in cyber risk.
-    - title: <a href="https://doi.org/10.1093/rfs/hhae032">Firm Networks and Asset Returns.</a> Review of Financial Studies. 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/fnar-rfs.pdf">Firm Networks and Asset Returns.</a> Review of Financial Studies. 
       year: Oct 2024
       # items: 
         # - Changes in the propagation of shocks along firm networks are important to understanding aggregate and cross-sectional features of stock returns. When calibrated to match key characteristics of supplier–customer networks in the United States, a model in which firms are interlinked via enduring relationships generates long-run consumption risks, high and volatile risk premiums, and a small and stable risk-free rate. The model also matches cross-sectional patterns of portfolio returns sorted by firm centrality, a feature unaccounted for by standard asset pricing models.
-    - title: <a href="https://www.sciencedirect.com/science/article/pii/S0165176524001599">On the Anatomy of Cyberattacks.</a> Economics Letters. 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/anatomy_cyberattacks.pdf">On the Anatomy of Cyberattacks.</a> Economics Letters. 
       year: Apr 2024
       description: Joint with Jin-Wook Chang, Kartik Jayachandran, and Ali Tintera. 
         # - Using detailed information on cyberattacks and establishments in the United States, we study whether and how an establishment’s characteristics can alter the likelihood of cyberattacks. We find that larger establishments and establishments of publicly traded companies are more likely targets.      
@@ -64,7 +64,7 @@
       year: Aug 2021
       description: Joint with Mark E. Paddrik and  Matthew J. McCormick. 
         # - Using supervisory transaction-level data, this note provides an overview of the pricing and clearing process of overnight triparty repos. We present novel facts about how this segment behaves, emphasizing the role that participants, collateral, and trading relationships play in its pricing and clearing process.      
-    - title: <a href="https://doi.org/10.1016/j.jmoneco.2019.12.002">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
+    - title: <a href="https://www.carlosrc.com/assets/pdf/screening_ratings_macro.pdf">Imperfect information transmission from banks to investors Macroeconomic implications.</a> Journal of Monetary Economics.
       year: Mar 2021
       description: Joint with Nicolás Figueroa and Oksana Leukhina. 
         # - We study the interaction between screening and information production in loan-backed asset markets wherein credit ratings are prone to error. Conventional regulatory policies can exacerbate credit misallocation by reducing the informational value of high credit ratings. We propose a tax/subsidy scheme that increases efficiency.
