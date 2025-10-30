@@ -72,19 +72,19 @@
 - title: Working Papers
   type: time_table
   contents:
-    - title: Supply Chain Risk and Inflation Dynamics. 
-      year: Aug 2025
+    #- title: Supply Chain Risk and Inflation Dynamics. 
+      #year: Aug 2025
       # items: 
       # - I propose a measure of the U.S. economy’s exposure to supply chain disruptions by integrating stock market data with information on supplier–customer linkages and input specificity. The proposed measure improves inflation forecasts and provides insights into inflation tail risk, particularly at longer horizons.
-    - title: <a href="https://www.carlosrc.com/assets/pdf/triparty-05022025.pdf"">Treasury Triparty Repo Pricing.</a> 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/triparty-repo-pricing-wp.pdf"">Treasury Triparty Repo Pricing.</a> 
       year: May 2025
       description: Joint with Mark E. Paddrik. 
       # - Using a confidential and comprehensive dataset, we show that the pricing of overnight Treasury tri-party repos significantly varies across market participants and depends on three factors (1) the number of counterparties that participants often trade with, (2) the degree of trading diversification across those counterparties, and (3) the share of trading volume those counterparties account for. We also find that the pricing impact of these factors are sensitive to market conditions.
-    - title: <a href="https://drive.google.com/file/d/1FmGM23g437ISTV24UKeXxYNwAg6HKJuk/view">The Anatomy of Contagion and Macroprudential Policies.</a> 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/anatomy-contagion-wp.pdf">The Anatomy of Contagion and Macroprudential Policies.</a> 
       year: Mar 2024
       # items: 
       # - I propose a model to highlight the relevance of basic characteristics of the structural makeup of contagion for the design of macroprudential policies. Besides characterizing optimal policies under a variety of environments, I show that failing to incorporate said characteristics can lead to inappropriate strategies for crisis prevention.
-    - title: <a href="https://drive.google.com/file/d/1u-29bQ05Yuzr5VjdOoqnug10rULaXyQD/view?usp=sharing">Regulating Financial Networks A Flying Blind Problem.</a> 
+    - title: <a href="https://www.carlosrc.com/assets/pdf/contagion-uncertainty-wp.pdf">Regulating Financial Networks A Flying Blind Problem.</a> 
       year: Mar 2022
       # items: 
       # - I develop a model for studying the role that uncertainty about the susceptibility of a financial network to contagion plays in the behavior of its member institutions and the design of preemptive interventions. As uncertainty affects the perception of contagion risk, it can reshape market equilibrium inefficiencies, altering the scope of welfare-improving interventions. The socially optimal level of uncertainty depends on a delicate balance between the information technologies available to policymakers and structural features of the network.
@@ -93,7 +93,7 @@
   type: time_table
   contents:
     - title: Department of Finance
-      institution: Bocconi University, Milano, Italy.
+      institution: Bocconi, Milano, Italy.
       year: Jul 2022
     - title: Department of Finance
       institution: UCLA Anderson, Los Angeles, USA.
