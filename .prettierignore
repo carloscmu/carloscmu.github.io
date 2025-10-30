@@ -5,6 +5,7 @@ assets/plotly/demo.html
 _config.yml
 _data/cv.yml
 _layouts/about.liquid
+_layouts/default.liquid
 _news/announcement_1.md
 _news/announcement_2.md
 _pages/about.md
