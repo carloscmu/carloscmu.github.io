@@ -48,6 +48,9 @@
 - title: Publications & Policy Notes
   type: time_table
   contents:
+    - title: <a href="https://www.federalreserve.gov/econres/notes/feds-notes/supply-chain-risk-and-bank-lending-amid-trade-policy-uncertainty-20260130.html">Supply Chain Risk and Bank Lending Amid Trade Policy Uncertainty.</a> FEDS Notes. 
+      year: Jan 2026
+      description: Joint with Luke Morgan, Andre F. Silva, and Andrei Zlate. 
     - title: <a href="https://www.carlosrc.com/assets/pdf/on-equilibrium-cyber-risk.pdf">On Equilibrium Cyber Risk.</a> Economics Letters. 
       year: Apr 2025
       # items: 
