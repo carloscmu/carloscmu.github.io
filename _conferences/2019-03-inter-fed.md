@@ -4,6 +4,7 @@ date: 2019-03-07
 venue: "Federal Reserve Board"
 location: "Washington, DC"
 url: "https://www.federalreserve.gov/conferences/interconnectedness-of-financial-systems.htm"
+external_url: "https://www.federalreserve.gov/conferences/interconnectedness-of-financial-systems.htm"
 role: "Organizer"   # optional
 ---
 
