@@ -1,0 +1,16 @@
+{% assign eds = site.editorial | sort: "date" | reverse %}
+{% if eds.size > 0 %}
+<ul class="list-unstyled">
+  {% for e in eds %}
+    <li class="mb-2">
+      <strong>
+        {% if e.url %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}
+      </strong>
+      {% if e.journal %} — {{ e.journal }}{% endif %}
+      {% if e.date %} — {{ e.date | date: "%Y" }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No editorial roles yet.</p>
+{% endif %}
