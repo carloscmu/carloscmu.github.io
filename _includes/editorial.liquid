@@ -4,7 +4,11 @@
   {% for e in eds %}
     <li class="mb-2">
       <strong>
-        {% if e.url %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}
+        {% if e.link %}
+          <a href="{{ e.link }}" target="_blank" rel="noopener">{{ e.title }}</a>
+        {% else %}
+          <a href="{{ e.url | relative_url }}">{{ e.title }}</a>
+        {% endif %}
       </strong>
       {% if e.journal %} — {{ e.journal }}{% endif %}
       {% if e.date %} — {{ e.date | date: "%Y" }}{% endif %}
