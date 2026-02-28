@@ -64,6 +64,16 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    {% if page.conferences %}
+    ## conferences
+    {% include conferences.liquid %}
+    {% endif %}
+    
+    {% if page.editorial %}
+    ## editorial work
+    {% include editorial.liquid %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
