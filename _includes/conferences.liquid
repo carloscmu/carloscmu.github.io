@@ -4,7 +4,11 @@
   {% for c in confs %}
     <li class="mb-2">
       <strong>
-        {% if c.url %}<a href="{{ c.url }}" target="_blank" rel="noopener">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}
+        {% if c.link %}
+          <a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.title }}</a>
+        {% else %}
+          <a href="{{ c.url | relative_url }}">{{ c.title }}</a>
+        {% endif %}
       </strong>
       {% if c.venue %} — {{ c.venue }}{% endif %}
       {% if c.location %} ({{ c.location }}){% endif %}
