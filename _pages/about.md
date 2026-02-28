@@ -11,6 +11,8 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 working_papers: false # includes a list of papers marked as "selected={false}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
+conferences: true # includes a list of conferences organized
+editorial: true # includes a list of editorial work done
 social: true # includes social icons at the bottom of the page
 ---
 
