@@ -72,9 +72,12 @@ layout: default
       {% include conferences.liquid %}
     {% endif %}
 
+    <!-- Editorial work -->
     {% if page.editorial %}
-    ## editorial work
-    {% include editorial.liquid %}
+      <h2>
+        <a href="{{ '/editorial/' | relative_url }}" style="color: inherit">editorial work</a>
+      </h2>
+      {% include editorial.liquid %}
     {% endif %}
 
     <!-- Social -->
