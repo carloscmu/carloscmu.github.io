@@ -169,6 +169,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  conferences:
+    output: true
+    permalink: /conferences/:path/
+  editorial:
+    output: true
+    permalink: /editorial/:path/
 
 announcements:
   enabled: true
