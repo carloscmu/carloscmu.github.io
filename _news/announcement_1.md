@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Some colleagues and I just published a working paper studying how unexpected changes in foreign trade policy can affect bank returns. You can find the paper <a href= 'https://www.federalreserve.gov/econres/feds/disruptions-to-foreign-trade-and-us-banks-returns.htm'>here</a>.
+Interested in the potential repercussions of foreign trade risk? In a new working paper, my coauthors and I study how unexpected changes in foreign trade policy affect U.S. bank returns. The paper is available <a href='https://www.federalreserve.gov/econres/feds/disruptions-to-foreign-trade-and-us-banks-returns.htm'>here</a>.
