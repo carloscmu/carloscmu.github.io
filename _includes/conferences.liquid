@@ -1,0 +1,18 @@
+{% assign confs = site.conferences | sort: "date" | reverse %}
+{% if confs.size > 0 %}
+<ul class="list-unstyled">
+  {% for c in confs %}
+    <li class="mb-2">
+      <strong>
+        {% if c.url %}<a href="{{ c.url }}" target="_blank" rel="noopener">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}
+      </strong>
+      {% if c.venue %} — {{ c.venue }}{% endif %}
+      {% if c.location %} ({{ c.location }}){% endif %}
+      {% if c.date %} — {{ c.date | date: "%b %Y" }}{% endif %}
+      {% if c.role %} — {{ c.role }}{% endif %}
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>No conferences yet.</p>
+{% endif %}
