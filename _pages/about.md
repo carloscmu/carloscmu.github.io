@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Associate Professor of Finance. EDHEC Business School. 
-# <a href= 'https://www.federalreserve.gov/econres/rsfs-staff.htm'>Division of Research and Statistics. Federal Reserve Board.</a>
 
 profile:
   align: right
@@ -22,7 +21,5 @@ I am an economist interested in networks, asset pricing, and financial stability
 Contact Information:<br>
 Email: <a href = "mailto: carlos.ramirez@edhec.edu">carlos.ramirez@edhec.edu</a>.<br>
 Address: 393 Prom. des Anglais, 06200 Nice, France. <br> 
-# Federal Reserve Board. 1801 K Street NW, Washington DC, 20006. <br>
-# Phone: +1 202 452 3169.
 
 <br>
