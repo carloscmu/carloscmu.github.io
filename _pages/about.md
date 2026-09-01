@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href = https://www.edhec.edu/en/research-and-faculty/departments/data-science-economics-and-finance">Associate Professor of Finance. EDHEC Business School</a>. 
+subtitle: <a href = https://www.edhec.edu/en/research-and-faculty/departments/data-science-economics-and-finance>Associate Professor of Finance. EDHEC Business School</a>. 
 
 profile:
   align: right
