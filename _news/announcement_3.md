@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-After a little more than 10 years at the Federal Reserve Board, I am excited to start a new chapter at EDHEC Business School. I am deeply grateful to the many colleagues and friends at the Fed who made these years such a rewarding experience.
+After a little more than 10 years at the Fed Board, I am excited to start a new chapter at EDHEC Business School. I am deeply grateful to the many colleagues and friends at the Fed who made these years such a rewarding experience.
