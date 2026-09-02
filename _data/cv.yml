@@ -4,18 +4,19 @@
     - name: Name
       value: Carlos A. Ramírez
     - name: Address
-      value: 1801 K Street NW. Washington DC. 20006.
+      value:  393 Prom. des Anglais, 06200 Nice, France.
     - name: Email
-      value: <a href="mailto:carlos@carlosrc.com">carlos@carlosrc.com</a>
-    - name: Phone
-      value: +1 202 430 0842
-
+      value: <a href="mailto:carlos.ramirez@edhec.edu">carlos.ramirez@edhec.edu</a>
+    
 - title: Employment
   type: time_table
   contents:
+    - title: Associate Professor of Finance
+      institution: EDHEC Business School.
+      year: 2026 - 
     - title: Principal Economist
       institution: Division of Research and Statistics. Federal Reserve Board.
-      year: 2024 -
+      year: 2024 - 2026
     - title: Senior Economist
       institution: Division of Research and Statistics. Federal Reserve Board.
       year: 2019 - 2024
