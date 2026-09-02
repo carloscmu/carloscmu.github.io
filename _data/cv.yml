@@ -34,16 +34,16 @@
   type: time_table
   contents:
     - title: PhD in Finance
-      institution: Carnegie Mellon, Pittsburgh, USA
+      institution: Carnegie Mellon
       year: 2016
     - title: MSc in Finance
-      institution: Carnegie Mellon, Pittsburgh, USA
+      institution: Carnegie Mellon
       year: 2012
     - title: MSc in Economics
-      institution: Universidad de Chile, Santiago, Chile
+      institution: Universidad de Chile
       year: 2008
     - title: BSc in Engineering
-      institution: Universidad de Chile, Santiago, Chile
+      institution: Universidad de Chile
       year: 2006
       
 - title: Publications & Policy Notes
@@ -97,31 +97,33 @@
   type: time_table
   contents:
     - title: Department of Finance
-      institution: Bocconi, Milano, Italy.
+      institution: Bocconi.
       year: Jul 2022
     - title: Department of Finance
-      institution: UCLA Anderson, Los Angeles, USA.
+      institution: UCLA Anderson.
       year: May-Jun 2022
     - title: Department of Economics
-      institution: Stanford University, Stanford, USA.
+      institution: Stanford.
       year: Apr-May 2022
     - title: Managerial Economics and Decision Sciences Department
-      institution: Northwestern University, Evanston, USA.
+      institution: Northwestern.
       year: Mar-Apr 2022
       
 - title: Teaching Experience
   type: time_table
   contents:
     - title: Regression Analysis
-      institution: Carnegie Mellon, Pittsburgh, USA.
+      institution: Carnegie Mellon.
       year: 2013
     - title: Principles of Economics
-      institution: Universidad de Chile, Santiago, Chile.
+      institution: Universidad de Chile.
       year: 2009
       
 - title: Presentations
   type: time_table
   contents:
+    - year: 2026
+      description: Collegio Carlo Alberto, EDHEC, Conference on Network Science*, BSE Summer Forum*, FIRS, Finance Forum.
     - year: 2025
       description: IRMC, Universidad de los Andes, Universidad de Chile, NFA.
     - year: 2024
