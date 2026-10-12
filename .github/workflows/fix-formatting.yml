@@ -13,26 +13,32 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
 
       - name: Install Prettier
-        run: npm install --no-save --no-package-lock prettier @shopify/prettier-plugin-liquid
+        run: |
+          npm install --no-save --no-package-lock \
+            prettier @shopify/prettier-plugin-liquid
 
       - name: Fix formatting
-        run: npx prettier . --write
+        run: |
+          npx prettier --write \
+            _includes/conferences.liquid \
+            _includes/editorial.liquid \
+            .github/workflows/fix-formatting.yml
 
-      - name: Commit formatting changes
+      - name: Commit and push fixes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -u
+          git add _includes/conferences.liquid
+          git add _includes/editorial.liquid
+          git add .github/workflows/fix-formatting.yml
           if ! git diff --cached --quiet; then
             git commit -m "Fix Prettier formatting"
             git push
