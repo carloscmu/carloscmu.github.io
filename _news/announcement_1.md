@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-02-28 01:00:00 -0400
-inline: true
+inline: false
 related_posts: false
 ---
 
