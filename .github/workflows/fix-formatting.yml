@@ -1,3 +1,4 @@
+
 name: Fix Prettier Formatting
 
 on:
@@ -16,18 +17,18 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
-      - name: Install dependencies
-        run: npm ci
+      - name: Install Prettier
+        run: npm install --no-save --no-package-lock prettier @shopify/prettier-plugin-liquid
 
       - name: Fix formatting
-        run: npx prettier --write .
+        run: npx prettier . --write
 
-      - name: Commit changes
+      - name: Commit formatting changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
