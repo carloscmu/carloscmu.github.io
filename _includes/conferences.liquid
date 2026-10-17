@@ -1,22 +1,22 @@
-{% assign confs = site.conferences | sort: "date" | reverse %}
+{% assign confs = site.conferences | sort: 'date' | reverse %}
 {% if confs.size > 0 %}
-<ul class="list-unstyled">
-  {% for c in confs %}
-    <li class="mb-2">
-      <strong>
-        {% if c.link %}
-          <a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.title }}</a>
-        {% else %}
-          <a href="{{ c.url | relative_url }}">{{ c.title }}</a>
-        {% endif %}
-      </strong>
-      {% if c.venue %} — {{ c.venue }}{% endif %}
-      {% if c.location %} ({{ c.location }}){% endif %}
-      {% if c.date %} — {{ c.date | date: "%b %Y" }}{% endif %}
-      {% if c.role %} — {{ c.role }}{% endif %}
-    </li>
-  {% endfor %}
-</ul>
+  <ul class="list-unstyled">
+    {% for c in confs %}
+      <li class="mb-2">
+        <strong>
+          {% if c.link %}
+            <a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.title }}</a>
+          {% else %}
+            <a href="{{ c.url | relative_url }}">{{ c.title }}</a>
+          {% endif %}
+        </strong>
+        {% if c.venue %} — {{ c.venue }}{% endif %}
+        {% if c.location %} ({{ c.location }}){% endif %}
+        {% if c.date %} — {{ c.date | date: '%b %Y' }}{% endif %}
+        {% if c.role %} — {{ c.role }}{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 {% else %}
-<p>No conferences yet.</p>
+  <p>No conferences yet.</p>
 {% endif %}
