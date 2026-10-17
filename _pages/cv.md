@@ -1,10 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: 
+title: cv
 nav: true
 nav_order: 3
 cv_pdf: CV-carlos-ramirez-latest.pdf
+display_title: false
 description: 
 toc:
   sidebar: left
